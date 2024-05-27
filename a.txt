@@ -1,0 +1,6 @@
+Public void static main(String [] args){
+
+	public Class TestIng (){
+	System.out.println("Printing the output file")
+	}
+}
